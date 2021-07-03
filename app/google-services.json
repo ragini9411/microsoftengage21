@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831706164814",
+    "project_id": "teams-clone-c453b",
+    "storage_bucket": "teams-clone-c453b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831706164814:android:6f2221deab702d6d7d5d1f",
+        "android_client_info": {
+          "package_name": "com.appworld.microsoftteamsclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831706164814-m1mp8s13v4ku3ac961uf0univ2q8buo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAORPP02FJixKCizIRp4re8l0TlgEbCekQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831706164814-m1mp8s13v4ku3ac961uf0univ2q8buo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
